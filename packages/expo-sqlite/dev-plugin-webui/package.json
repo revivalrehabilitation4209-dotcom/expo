@@ -65,5 +65,8 @@
   "private": true,
   "patchedDependencies": {
     "@expo/devtools@0.1.7": "patches/@expo%2Fdevtools@0.1.7.patch"
+  },
+  "overrides": {
+    "react-server-dom-webpack": "19.0.4"
   }
 }
